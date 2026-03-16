@@ -32,7 +32,7 @@ Tipo/Género:
 ### Personaje
 
 
-![](img-nobody.png)
+![](IMG_9947.PNG)
 
 Nombre: Jessi 
 
