@@ -34,8 +34,9 @@ Tipo/Género:
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Jessi 
 
+Es un joven tímido, curioso y observador que pasa mucho tiempo jugando videojuegos. Una noche mientras juega, se queda dormido y despierta dentro del mismo. A partir de ese momento se convierte en un extraño dentro de ese universo.
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
 * hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
