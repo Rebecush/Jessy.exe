@@ -32,7 +32,7 @@ Tipo/Género:
 ### Personaje
 
 
-![](IMG_9947.PNG)
+![](rada por Géminis)
 
 Nombre: Jessi 
 
