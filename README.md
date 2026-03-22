@@ -32,7 +32,7 @@ Tipo/Género:
 ### Personaje
 
 
-![](Gemini_Generated_Image_9df8uk9df8uk9df8)
+![](Gemini_Generated_Image_9df8uk9df8uk9df8.png)
 
 Nombre: Jessi 
 
