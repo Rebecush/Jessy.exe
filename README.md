@@ -61,11 +61,8 @@ Jessi está atrapado en un mundo que depende de el para existir, y debe decidir 
 
 ![](PERSONAJE.jpeg)
 
-- Banner/Teaser:  (enlace) 
-
-
-- Storytelling: (enlace) 
-
+ENLACE: (https://app.lumi.education/run/ML7-oT)
+![]()
 
 
 
