@@ -54,7 +54,7 @@ Jessi está atrapado en un mundo que depende de el para existir, y debe decidir 
 - Personaje:
   ![](FICHA.jpg)
 
-
+![](PERSONAJE.jpeg)
 
 - Banner/Teaser:  (enlace) 
 
