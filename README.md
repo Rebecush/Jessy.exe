@@ -38,9 +38,14 @@ Jessi, un chico obsesionado con los videojuegos, se queda dormido mientras juega
 Nuestro protagonista es creativo, curioso y bastante valiente cuando se trata de descubrir cosas nuevas. Aunque al principio se siente confundido y asustado, su curiosidad lo impulsa a explorar el mundo del juego. También tiene un lado empático, lo que hace que conecte con los personajes del juego y quiera ayudarles, incluso cuando eso significa arriesgarse.
 
 ### Historia
-Jessi se queda dormido jugando y despierta dentro del videojuego, en un mundo que no funciona como debería: hay errores, ciclos repetidos y recuerdos de su propia vida mezclados con el entorno. Pronto descubre que no es un jugador más, sino parte del sistema, y que el mundo existe gracias a su propia mente. 
+Cuando una noche jessi se queda dormido mientras juega un videojuego despierta en un mundo diferente al suyo, frente a sus ojos algo no encaja. Lo confirma cuando un personaje del juego, que antes solo repetía frases, lo mira directamente y le dice:
 
-Al enfrentarse a la verdad, debe decidir entre quedarse y sostener ese universo o despertar y dejar que desaparezca. Sin embargo, encuentra una tercera opción: deja fragmentos de sí mismo ocultos en el juego antes de regresar a la realidad, donde un último mensaje revela que, de alguna forma, sigue conectado a ese mundo.
+“No deberías estar aquí”.
+
+Jessi entiende que no es un jugador más, sino algo distinto, algo que no debería existir ahí. Descubre los recuerdos de su vida real mezclados con escenarios del juego. Fragmentos de su pasado flotan en ese mundo. Es ahí cuando empieza a comprender que es un juego construido con partes de su propia mente.
+
+Entonces se enfrenta a una decisión imposible: quedarse y perderse para siempre en ese mundo, o despertar y destruirlo. Sin embargo, encuentra una tercera opción. 
+Divide su memoria en fragmentos y los esconde dentro del juego, como una forma de dejarse a sí mismo dentro del universo, sin desaparecer por completo.
 
 ### TagLine
 Para despertar, tendrá que dejar atrás el mundo que creó… o quedarse y olvidarse de quién es para siempre. 
