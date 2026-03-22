@@ -56,7 +56,7 @@ Jessi está atrapado en un mundo que depende de el para existir, y debe decidir 
 ### Productos
 
 - Personaje:
-  ![](Ideación-CopiadeCopiadeFichaejemplo.jpg)
+  ![](FICHA.jpg)
 
 
 
@@ -70,7 +70,7 @@ Jessi está atrapado en un mundo que depende de el para existir, y debe decidir 
 
 ### Conclusiones/Valoración del equipo
 
-
+Esta practica nos hizo ejercer nuestra creatividad a un punto sin limites, de igual forma construir un personaje desde cero con la lluvia de ideas de nuestros compañeros y desarrollar esa narrativa para poder atrapar al público. En general valoramos esta actividad como muy útil y entretenida, como tambien complicada por los diversos medios como el test interactivo o la exportación de nuevos archivos pero fue algo que aprendimos sobre la marcha. Fue muy satisfactorio aprender de nuevas técnicas de creatividad para poder darle vida a esta historia. 
 
 
 
