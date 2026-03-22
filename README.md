@@ -62,7 +62,7 @@ Jessi está atrapado en un mundo que depende de el para existir, y debe decidir 
 ![](PERSONAJE.jpeg)
 
 ENLACE: (https://app.lumi.education/run/ML7-oT)
-![](Jessi.exe-qr-code(1).png)
+![](qrcode.png)
 
 
 
