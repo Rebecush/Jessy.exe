@@ -64,7 +64,11 @@ Jessi está atrapado en un mundo que depende de el para existir, y debe decidir 
 ENLACE: (https://app.lumi.education/run/ML7-oT)
 ![](qrcode.png)
 
+Ayudame a escapar:https://arcweave.com/app/project/DvlOmem6dx/play
 
+Hablemos:https://character.ai/chat/zkLGcDzoFH80MaHAEP2p8MqAdLl1lMDSOAra0vYQuxc
+
+Visita mi habitación:https://www.figma.com/proto/j0AJY2EZD1oBR3cZXyENZ4/JESSI.EXE?node-id=6-2&t=ldznxeQNDNS4JjT9-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
 ### Conclusiones/Valoración del equipo
 
