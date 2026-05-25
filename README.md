@@ -70,6 +70,8 @@ Hablemos:https://character.ai/chat/zkLGcDzoFH80MaHAEP2p8MqAdLl1lMDSOAra0vYQuxc
 
 Visita mi habitación:https://www.figma.com/proto/j0AJY2EZD1oBR3cZXyENZ4/JESSI.EXE?node-id=6-2&t=ldznxeQNDNS4JjT9-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
+Juega: http://127.0.0.1:8042/index.html
+
 ### Conclusiones/Valoración del equipo
 
 Esta practica nos hizo ejercer nuestra creatividad a un punto sin limites, de igual forma construir un personaje desde cero con la lluvia de ideas de nuestros compañeros y desarrollar esa narrativa para poder atrapar al público. En general valoramos esta actividad como muy útil y entretenida, como tambien complicada por los diversos medios como el test interactivo o la exportación de nuevos archivos pero fue algo que aprendimos sobre la marcha. Fue muy satisfactorio aprender de nuevas técnicas de creatividad para poder darle vida a esta historia. 
