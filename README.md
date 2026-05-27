@@ -70,7 +70,7 @@ Hablemos:https://character.ai/chat/zkLGcDzoFH80MaHAEP2p8MqAdLl1lMDSOAra0vYQuxc
 
 Visita mi habitación:https://www.figma.com/proto/j0AJY2EZD1oBR3cZXyENZ4/JESSI.EXE?node-id=6-2&t=ldznxeQNDNS4JjT9-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
-Juega: https://rebecushh.itch.io/jessiexee
+Juega: https://rebecushh.itch.io/jessiexe2
 
 ### Conclusiones/Valoración del equipo
 
